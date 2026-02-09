@@ -29,7 +29,7 @@ Year: Calendar year
 
 Month: Month of observation
 
-CPI Commodity Groups (Selected)
+# CPI Commodity Groups (Selected)
 
 Cereals and products
 
